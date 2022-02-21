@@ -1,19 +1,22 @@
 # Mini-Jimmy (Processing/P5.js) 
+## Hi! Welcome to the world of Mini Jimmy, a Chihuahua just trying to make it through the school hallways and get past Monster Mike, a bulldog of a bully!
 
-<img src="https://user-images.githubusercontent.com/33499496/154909689-21498275-39e6-405b-8a08-e11356486208.png" width="200" align="left"> Hi! Welcome to the world of Mini Jimmy! Mini Jimmy is a game concept I came up with in 2016 that I decided to finally bring to life. This game was built using Processing.js and then upgraded to use the new p5.js language. If you would like, you can find the original Processing file here and play the game by importing the file to your local Processing application. Alternatively, you can follow this link [here](https://openprocessing.org/sketch/1491986) and play it all the same in your browser.
+<img src="https://user-images.githubusercontent.com/33499496/154909689-21498275-39e6-405b-8a08-e11356486208.png" width="200" align="left"> 
 
-**All artwork is original done by me using Adobe Illustrator.** <br>
-**All sounds were downloaded from freesound.org and I do not own any rights**
+Mini Jimmy is a game concept that I came up with in 2016 that I decided to finally bring to life. This game was built using Processing.js and then upgraded to use the new p5.js language. If you would like, you can find the original Processing file in this repo (Mini_Jimmy.pde) and play the game by importing the file to your local Processing application. Alternatively, you can follow this link [here](https://openprocessing.org/sketch/1491986) and play it all the same in your browser.
+
+_All artwork is original done by me using Adobe Illustrator._ <br>
+_All sounds were downloaded from freesound.org and I do not own any rights_
 
 <br>
 
 ## How to play
 
-Press 'S' to start. <br>
-Run left and right using the arrow keys <br>
-Press SPACE to throw books at Monster Mike <br>
-Make it to the end of the hall and you win! <br>
-Let Mike catch you before you knock him out with your textbooks and you lose! <br>
+- Press 'S' to start. <br>
+- Run left and right using the arrow keys. <br>
+- Press SPACE to throw books at Monster Mike. <br>
+- Make it to the end of the hall and you win! <br>
+- Let Monster Mike catch you before you knock him out with your textbooks and you lose! <br>
 
 ## Screen Shots
 
