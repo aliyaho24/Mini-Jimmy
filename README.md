@@ -5,6 +5,8 @@
 **All artwork is original done by me using Adobe Illustrator.** <br>
 **All sounds were downloaded from freesound.org and I do not own any rights**
 
+<br>
+
 ## How to play
 
 Press 'S' to start. <br>
